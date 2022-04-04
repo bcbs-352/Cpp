@@ -1,0 +1,9 @@
+*.exe
+*.filters
+*.json
+*.cmake
+*.sln
+*.vcxproj
+cmakeTest/.vs
+cmakeTest/CMakeFiles
+*/.vs
