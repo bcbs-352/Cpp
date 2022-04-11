@@ -7,3 +7,4 @@
 cmakeTest/.vs
 cmakeTest/CMakeFiles
 */.vs
+*/*/.vs
